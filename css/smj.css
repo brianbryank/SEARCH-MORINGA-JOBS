@@ -1,0 +1,114 @@
+/* smj.css */
+body {
+    margin: auto;
+    padding-top: 30px;
+}
+
+.navbar {
+    display: flex;
+    opacity: 0.7;
+    justify-content: space-between;
+    padding: 1px;
+    background-color: rgb(255, 252, 252);
+}
+
+.brand {
+    color: rgb(55, 72, 72);
+    font-size: 14px;
+    opacity: 9.0;
+    font-style: italic;
+}
+
+.nav-links {
+    display: flex;
+}
+
+.nav-links a {
+    color: rgb(8, 172, 232);
+    text-decoration:underline;
+    margin: 0 15px;
+    font-size: 18px;
+    text-decoration-line:underline;
+    font-style:normal;
+    font-weight:bold;
+}
+
+.nav-links a:hover {
+    color: rgb(255, 7, 2);
+    touch-action:double-tap-zoom;
+}
+
+/* Align the links to the right */
+.nav-links {
+    margin-left: auto;
+}
+.jumbotro{
+    background-image: url(../assets/backgroud/defaultmoringa.jpg);
+    height: 90vh;
+    width: 205vh;
+    opacity: 0.8;
+    background-size: cover;
+    margin-top: 70px;
+    
+
+}
+.services{
+    background-image: url(../assets/backgroud/headway-5QgIuuBxKwM-unsplash.jpg);
+    height: 80vh;
+    width: 200vh;
+    background-size:cover;
+    opacity: 0.6;
+    padding-top: 50%;
+}
+.contain{
+    display: none;
+}
+.design{
+    display: none;
+}
+.develop{
+    display: none;
+}
+.manage{
+    display: none;
+}
+.contact{
+    background-image: url(../assets/backgroud/mimi-thian-vdXMSiX-n6M-unsplash.jpg);
+    height: 80vh;
+    width: 205vh;
+    opacity: 0.7;
+    background-size: cover;
+    padding-bottom: 100px;
+}
+.designing{
+    border: 2px rgb(0, 0, 0);
+    transition: 1s;
+}
+.designing:hover{
+    box-shadow: 0 0 2px rgba(212, 187, 187, 0.2);
+}
+form input{
+    background: transparent !important;
+}
+form textarea{
+    height: 50px;
+    background: transparent !important;
+}
+#text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 200px;
+    color: rgb(0, 0, 0);
+    border: 79px solid rgba(111, 100, 165, 0.3);
+    transform: translate(-50%,-50%);
+   
+  }
+  #overla, #overl, #overlay, #over, #overlay,#carry, #carr, #car, #ca{
+    display: none;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(237, 16, 16, 0.5);
+    cursor: pointer;
+}

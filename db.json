@@ -1,0 +1,40 @@
+{
+  "signups": [
+    {
+      "name": "brian",
+      "email": "brianbryan0125@gmail.com",
+      "password": "12345678",
+      "id": 1
+    },
+    {
+      "name": "dan",
+      "email": "dan12@gmail.com",
+      "password": "87643degh",
+      "id": 2
+    },
+    {
+      "name": "arin",
+      "email": "aronmwa123@gmail.com",
+      "password": "dfsdfhjuyhtrefrfh",
+      "id": 3
+    },
+    {
+      "name": "bin",
+      "email": "bin01@gmail.com",
+      "password": "12345678865tetryutrefdgh",
+      "id": 4
+    },
+    {
+      "name": "heloo",
+      "email": "heloomoringa@gmail.com",
+      "password": "254254",
+      "id": 5
+    },
+    {
+      "name": "aron",
+      "email": "aronkip@gmail.com",
+      "password": "123456y7u8ytrewsdfvgbn",
+      "id": 6
+    }
+  ]
+}
