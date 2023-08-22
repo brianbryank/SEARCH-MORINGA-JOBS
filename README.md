@@ -6,7 +6,7 @@ This is an application that allows a user to LOOK FOR A JOBS
 
 
 ## Project Author
-This projects are fully built by **Brian kiplangat**  *Initial work* -[https://github.com/brianbryank/FlatDango.git]
+This projects are fully built by **Brian kiplangat**  *Initial work* -[https://github.com/brianbryank/SEARCH-MORINGA-JOBS.git]
 
 ## Status
 The program is maintained and is currently in development.
